@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClassWork_1</string>
+    <string name="welcome_text">Welcome to hotel reservation system</string>
+    <string name="no_of_guest">No of Guest</string>
+    <string name="check_in_date">Check In Date</string>
+    <string name="your_name">Your Name</string>
+    <string name="book">Book</string>
+</resources>
